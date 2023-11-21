@@ -21,7 +21,7 @@ Program to find the square root for the given number(newton's method) using func
 Developed by: M.pavan kishore 
 RegisterNumber:  21002328
 */
-```
+
 def fun(x):
     b=x
     for i in range(10):
@@ -30,7 +30,7 @@ def fun(x):
 x=int(input())
 fun(x)
 
-
+```
 ## Output:
 ![gcd of two number](outp.png)
 
